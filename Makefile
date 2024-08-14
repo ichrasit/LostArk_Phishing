@@ -1,4 +1,4 @@
-PROJECT_NAME = lost_ark_phishig
+PROJECT_NAME = lost_ark_phishing
 
 MAIN_SCRIPT = main.py
 
